@@ -103,7 +103,7 @@ Important rule:
 
    * Emails
    * Blog paragraphs
-   * Website content (from your Parkease site 😉)
+   * Website content
 
 2. Do **3 speed tests** daily
 
@@ -116,7 +116,7 @@ Important rule:
 
 ---
 
-## 📊 Weekly Test (VERY IMPORTANT)
+## Weekly Test (VERY IMPORTANT)
 
 Every Sunday do 3 tests on:
 
@@ -136,7 +136,7 @@ Keep improving!
 
 ---
 
-## 🧠 Extra Tips (These give fast results)
+##  Extra Tips (These give fast results)
 
 ✅ Do NOT look at keyboard
 ✅ Keep fingers on home row
@@ -145,10 +145,3 @@ Keep improving!
 ✅ Practice every day (no break days)
 
 ---
-
-If you want, next I can:
-✅ Create you a **Daily Typing Sheet (PDF)**
-✅ Give you a **personalised drill for weak keys**
-✅ Track your weekly progress here
-
-Reply: **“Make my typing practice PDF”** or **“Give me daily drills”**
